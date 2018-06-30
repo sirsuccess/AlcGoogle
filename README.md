@@ -17,4 +17,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 # 7DaysofCodeChallenge
 
 
-Repo link: git@github.com:sirsuccess/AlcGoogle.git
+Repo link: https://github.com/sirsuccess/AlcWithGoogle.git
