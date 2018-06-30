@@ -15,3 +15,6 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 # 7DaysofCodeChallenge
+
+
+Repo link: git@github.com:sirsuccess/AlcGoogle.git
