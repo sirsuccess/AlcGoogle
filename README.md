@@ -18,3 +18,5 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 
 Repo link: https://github.com/sirsuccess/AlcWithGoogle.git
+
+output: https://sirsuccess.github.io/AlcWithGoogle/.
